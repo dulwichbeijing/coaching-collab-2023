@@ -3,7 +3,7 @@ title: "Using a solution focused approach for colleagues"
 date: 2023-05-05T09:42:55+08:00
 authors: ["Nichola Bell"]
 categories: ["Coaching", "Colleague Coaching", "Solution Focused Approach"]
-draft: true
+draft: false
 image: "highfive.jpg"
 ---
 
