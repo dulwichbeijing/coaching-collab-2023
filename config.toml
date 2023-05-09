@@ -1,0 +1,4 @@
+baseURL = 'https://eim-coaching.netlify.app/'
+languageCode = 'en-us'
+title = 'Coaching in Schools - EiM Collaboration Group'
+theme = 'newsroom'
