@@ -3,6 +3,7 @@ title: "The GROW model"
 date: 2023-05-05T09:42:55+08:00
 authors: ["Yuki Tang"]
 categories: ["Coaching", "Colleague Coaching", "GROW"]
+tags: ["coaching", "colleagues"]
 draft: false
 image: "grow.jpg"
 ---

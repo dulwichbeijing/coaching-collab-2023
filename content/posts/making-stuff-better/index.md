@@ -3,6 +3,8 @@ title: "Making Stuff Better"
 date: 2023-05-05T09:42:55+08:00
 authors: ["Valiha Lucron"] 
 draft: false
+categories: ["Coaching", "Colleague Coaching", "Making Stuff Better"]
+tags: ["coaching", "colleagues"]
 image: "postit.jpg"
 ---
 

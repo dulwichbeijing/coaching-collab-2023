@@ -3,6 +3,7 @@ title: "Using a solution focused approach for students"
 date: 2023-05-05T09:42:55+08:00
 authors: ["Nichola Bell"]
 categories: ["Coaching", "Student Coaching", "Solution Focused Approach"]
+tags: ["coaching", "students"]
 draft: false
 image: "fistbump.jpg"
 ---
